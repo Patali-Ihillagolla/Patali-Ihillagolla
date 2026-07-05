@@ -4,11 +4,11 @@ I'm an Engineering undergraduate from Sri Lanka with an interest in software dev
 
 ## 👨‍💻 About Me
 
-- 🎓 Engineering Undergraduate
-- 💻 Interested in Software Development
-- 🗄️ Learning Database Systems
-- 🔒 Interested in Cybersecurity
-- 🌱 Currently improving my programming skills
+-  Engineering Undergraduate
+-  Interested in Software Development
+-  Learning Database Systems
+-  Interested in Cybersecurity
+-  Currently improving my programming skills
 
 
 
