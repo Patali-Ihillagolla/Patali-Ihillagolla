@@ -1,6 +1,7 @@
 # Hi, I'm Patali Ihillagolla 👋
 
-I'm an Engineering undergraduate from Sri Lanka with an interest in software development, database systems, and cybersecurity. I enjoy learning new technologies and building projects that strengthen my programming and problem-solving skills.
+I'm an Engineering undergraduate from Sri Lanka with an interest in software development, database systems, and cybersecurity. 
+I enjoy learning new technologies and building projects that strengthen my programming and problem-solving skills.
 
 ## 👨‍💻 About Me
 
@@ -16,7 +17,6 @@ I'm an Engineering undergraduate from Sri Lanka with an interest in software dev
 
 - Database Management Systems
 - Information Security
-- Data Structures & Algorithms
 
 ## 🚀 Projects
 
